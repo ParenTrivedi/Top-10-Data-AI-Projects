@@ -2,7 +2,7 @@
 
 ### Build projects you can run, explain and discuss in an interview.
 
-A career-focused collection by **Tajamul Khan** covering Data Analytics, Data Engineering, Machine Learning, Deep Learning, Generative AI and Agentic AI.
+A career-focused collection covering Data Analytics, Data Engineering, Machine Learning, Deep Learning, Generative AI and Agentic AI.
 
 Explore **20 complete projects: 10 Data Analyst projects and 10 Data Engineering projects**. Each includes a business problem, data, reproducible code, saved notebook outputs, an offline dashboard and a STAR case study. Other collections are planned and clearly labelled.
 
