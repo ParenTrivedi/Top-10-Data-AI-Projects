@@ -103,15 +103,8 @@ The datasets are original simulations. Do not present their findings as actual c
 
 Original project code and documentation: [MIT](LICENSE). Included synthetic datasets: [CC0-1.0](DATA_LICENSE.md). Future external datasets retain their own terms. No third-party repository code or uploaded reference images are redistributed.
 
-## Acknowledgements
 
-Business-area inspiration came from the supplied “Top 8 Data analytics project examples” image collection. Implementation and simulated data were written independently. README structure follows [Tajamul Khan's Machine Learning Projects](https://github.com/tajamulkhann/Machine-Learning-Projects). Repository URLs inside the screenshots were not reliably legible and are not treated as verified code sources.
 
-## Author
-
-**Tajamul Khan**
-
-[GitHub](https://github.com/tajamulkhann) · [LinkedIn](https://www.linkedin.com/in/tajamulkhann/) · [Instagram](https://www.instagram.com/tajamul.codes/) · [Mentorship](https://topmate.io/tajamulkhan)
 
 ## Let's Connect
 
